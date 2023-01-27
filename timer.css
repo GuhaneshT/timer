@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Trirong');
+*{
+    box-sizing: border-box;
+    scroll-behavior: auto;
+}
+section{
+    /* display: inline-block;
+ position: relative;
+ padding-top: 20vh;
+ padding-left: 40vw; */
+ font-size: larger;
+ background-color: #495c6f;
+ align-content: center;
+ justify-content: center;
+ box-shadow: 2px;
+
+}
+section:hover{
+    background-color: #ccced0;
+}
+
+body{
+  background-color: #658eb8;
+  margin: 0;
+  padding: 0;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+article{
+  
+    
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+      padding-top: 2px;
+ padding-left: 120px; 
+
+}
+#demo{
+    padding-left:10px;
+    padding-right:10px;
+    font-size: larger;
+}
